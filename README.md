@@ -1,4 +1,4 @@
-# Hello there! I'm Yi Jun!
+# Hello there, I'm Yi Jun!
 
 I am a student in River Valley High School, planning to pursue Machine Learning in the future. I have a passion for understanding and implementing new technologies, and I love to share my knowledge and learn from others.
 
