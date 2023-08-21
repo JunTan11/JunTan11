@@ -9,7 +9,7 @@ I am a student in River Valley High School, planning to software engineering in 
 
 ## 📚 What I'm currently learning
 
-- Linear Algebra
+- C ++
 
 ## 📫 How to reach me
 
