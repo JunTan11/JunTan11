@@ -1,6 +1,6 @@
 # Hello there, I'm Yi Jun!
 
-I am a student in River Valley High School, planning to software engineering in the future. I have a passion for understanding and implementing new technologies, and I love to share my knowledge and learn from others.
+I am a student in River Valley High School, planning to software engineering and physics in the future. I have a passion for understanding and implementing new technologies, and I love to share my knowledge and learn from others.
 
 ## 🎓 Education
 
@@ -11,7 +11,7 @@ I am a student in River Valley High School, planning to software engineering in 
 
 ## 📚 What I'm currently learning
 
-- C++
+- Competitive Programming (in C++)
 
 ## 📫 How to reach me
 
