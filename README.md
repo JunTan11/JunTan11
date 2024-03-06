@@ -7,11 +7,6 @@ I am a student in River Valley High School, planning to pursue engineering in th
 - River Valley High School (2023-2024)
 - Anglo-Chinese School (Independent) (2021-2022)
 - Jurong Secondary School (2019-2020)
-- Nanyang Primary School (2013-2018)
-
-## 📚 What I'm currently learning
-
-- Competitive Programming (in C++)
 
 ## 📫 How to reach me
 
