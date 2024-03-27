@@ -10,5 +10,5 @@ I am a student in River Valley High School, planning to pursue engineering in th
 
 ## 📫 How to reach me
 
-- Email: tanyijun20@gmail.com
+- Email: yijuntan@protonmail.com
 - LinkedIn: https://www.linkedin.com/in/yi-jun-tan-560657279
